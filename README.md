@@ -50,7 +50,7 @@ This book shows founders how to build and run companies using AI agents as their
 
 This book is open-source. Read it here, share it, or [get the formatted version on Amazon](#) when it launches.
 
-Built with [Paperclip](https://paperclip.ing) | Community at [Singularity Playground](https://singularityplayground.com)
+[Paperclip](https://paperclip.ing) | [Singularity Playground](https://playground.earthpilot.co/singularity)
 
 ## License
 
